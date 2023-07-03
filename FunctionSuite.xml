@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FunctionalSuite">
+  <test  name="FunctionalTest">
+    <classes>
+      <class name="TestNgPractice2.BeforeTest_And_AfterTest"/>
+      <class name="TestNgPractice2.BeforeTest_and_BeforeMethod"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
